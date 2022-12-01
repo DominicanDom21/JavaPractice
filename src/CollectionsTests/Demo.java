@@ -1,3 +1,4 @@
+package CollectionsTests;
 import java.util.Scanner;
 
 public class Demo{

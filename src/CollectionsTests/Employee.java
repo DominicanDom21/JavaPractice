@@ -1,3 +1,4 @@
+package CollectionsTests;
 public class Employee {
 
     private int employeeNumber;
